@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '43449'
     url: http://www.gutenberg.org/2009/agents/43449
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45787#Zofloya-ou-le-Maure-Tomes-1-4Histoire-du-XVe-si-cle
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2014-05-27'
 gutenberg_type: Text
