@@ -1,0 +1,37 @@
+_repo: Zofloya-ou-le-Maure-Tomes-1-4Histoire-du-XVe-si-cle_45787
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Viterne, Madame de
+    alias: Viterne, Mme de
+    gutenberg_agent_id: '43450'
+    url: http://www.gutenberg.org/2009/agents/43450
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dacre, Charlotte
+    aliases:
+    - Matilda, Rosa
+    - King, Charlotte
+    - Byrne, Charlotte
+    deathdate: 1825
+    gutenberg_agent_id: '43449'
+    url: http://www.gutenberg.org/2009/agents/43449
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2014-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45787'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcsh 'Horror tales'
+title: Zofloya, ou le Maure, Histoire du XVe siècle
+url: http://www.gutenberg.org/ebooks/45787
